@@ -75,8 +75,7 @@
 
 ## 🚀 Interests
 
-- Python automation  
-- Open source C/C++ libraries
+- Python Modules
 
 ---
 
