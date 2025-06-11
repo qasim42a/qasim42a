@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Qasim</h1>
-<h3 align="center">Hey there! I'm Qasim, a passionate Python learner and developer</h3>
+<h3 align="center">A passionate Python learner & developer</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70" style="animation: pulse 2s infinite;" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="50" />
+  <img src="https://w0.peakpx.com/wallpaper/266/297/HD-wallpaper-python-logo-python-code-computer-programming-logo-thumbnail.jpg" width="230" style="border-radius: 15px; box-shadow: 0 0 20px #00ffcc;" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70" style="animation: pulse 2s infinite;" />
 </p>
-
----
 
 ## 🌱 Currently Learning
 - Django
